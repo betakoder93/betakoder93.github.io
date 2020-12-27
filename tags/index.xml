@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dhanapal Jayapandi</title>
-    <link>/tags/</link>
+    <link>https://betakoder1.github.io/tags/</link>
     <description>Recent content in Tags on Dhanapal Jayapandi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dhanapal Jayapandi. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 18 Mar 2020 02:01:58 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Mar 2020 02:01:58 +0530</lastBuildDate><atom:link href="https://betakoder1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>productivity</title>
-      <link>/tags/productivity/</link>
+      <link>https://betakoder1.github.io/tags/productivity/</link>
       <pubDate>Wed, 18 Mar 2020 02:01:58 +0530</pubDate>
       
-      <guid>/tags/productivity/</guid>
+      <guid>https://betakoder1.github.io/tags/productivity/</guid>
       <description></description>
     </item>
     
